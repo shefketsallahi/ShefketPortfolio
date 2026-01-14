@@ -7,7 +7,7 @@ export default function Experience() {
 
       <div>
         <p className="text-sm text-gray-500 mb-1">
-          2022 – 2024
+          2024 – 2028
         </p>
 
         <h3 className="font-medium mb-1">
